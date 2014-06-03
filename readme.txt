@@ -28,7 +28,7 @@ Features:
 * Shortcode supports a custom CSS class name of your own choosing.
 * Shortcode supports an optional “photos” parameter that lets you specify the number of images to return in the grid.
 * Support for responsive web breakpoints!!! 
-* When clicked, individual photos launch into a responsive lightbox (courtesy of Magnific Popup). 
+* When clicked, individual photos launch into a responsive lightbox (courtesy of Magnific Popup). This is set with the lightbox=yes parameter.
 * Ability to unlink account at any time. 
 
 == Installation ==
