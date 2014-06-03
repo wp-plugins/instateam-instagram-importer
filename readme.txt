@@ -55,11 +55,15 @@ Be sure that you are logged into your Instagram account, then click the “Secur
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. This is the default screen you see after you install the plugin.
+2. This is where you manage your Instagram users and tags.
+3. This is where you can set a variety of Instagram import rules.
+4. Flexible Shortcodes give you precise control over your responsive photo grids.
+5. Unlink your Instagram account at any time.
+6. We offer a variety of help options.
+7. Desktop grid - demo this live at http://www.spark6.com/about-us
+8. Tablet grid - demo this live at http://www.spark6.com/about-us
+9. Phone grid - demo this live at http://www.spark6.com/about-us
 
 == Changelog ==
 
