@@ -87,3 +87,7 @@ If you add a username with no tags, the plugin will attempt to import all public
 **Can I import photos from a private user or private photos?**
 
 Unfortunately the Instagram API does not grant us access to private accounts or photos. If you attempt to add a private user to the whitelist, we will show you a warning that the user is private. All private photos will be skipped when an import occurs.
+
+== Credits ==
+
+Test
