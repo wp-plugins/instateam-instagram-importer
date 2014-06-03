@@ -12,7 +12,7 @@ Import a whitelist of Instagram users and hashtagged photos into Wordpress!
 
 == Description ==
 
-We built this plugin out of necessity. Our agency, SPARK6, has a team distributed all over the word. Instagram is a perfect way for us to convey company culture by allowing the team to post photos with the #spark6 hashtag for anything they would like surfaced on the company site.
+We built this plugin out of necessity. Our agency, [http://www.spark6.com](SPARK6), has a team distributed all over the word. Instagram is a perfect way for us to convey company culture by allowing the team to post photos with the #spark6 hashtag for anything they would like surfaced on the company site.
 
 If you are looking for a plugin that will allow you to consolidate posts from one or more Instagram users on your Wordpress blog then this is the plugin for you!
 
@@ -25,10 +25,10 @@ Features:
 * Option to set all imported images to featured images.
 * Ability to specify how many photos are imported per Instagram API call (20, 40, 60, 80, 100 or 200).
 * Ability to set import frequency (every minute, every hour, twice daily, daily)
-* Shortcode that supports custom CSS class name.
-* Shortcode supports an option “photos” parameter that lets you specify the number of images to return in the grid.
-* Support for responsive web breakpoints. 
-* When clicked, individual photos launch into a responsive lightbox (courtesy of Magnific Popup. 
+* Shortcode supports a custom CSS class name of your own choosing.
+* Shortcode supports an optional “photos” parameter that lets you specify the number of images to return in the grid.
+* Support for responsive web breakpoints!!! 
+* When clicked, individual photos launch into a responsive lightbox (courtesy of Magnific Popup). 
 * Ability to unlink account at any time. 
 
 == Installation ==
