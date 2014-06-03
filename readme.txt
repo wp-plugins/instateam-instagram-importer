@@ -101,7 +101,6 @@ View our work samples at: http://www.spark6.com/work-samples/
 Special thanks to Dmitry Semenov for allowing us to include his excellent Magnific Popup lightbox script as part of InstaTeam Instagram Importer. Dmitry’s script allows our generated photo-grids to have a cool lightbox feature that is fully responsive!
 
 Download Magnific Popup script form his website:
-
 [http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
 
 Learn more by reading his excellent SMASHING Magazine article:
