@@ -16,7 +16,7 @@ We built this plugin out of necessity. Our agency, [SPARK6](http://www.spark6.co
 
 If you are looking for a plugin that will allow you to consolidate posts from one or more Instagram users on your Wordpress blog then this is the plugin for you!
 
-Features:
+**Features**
 
 * Ability to import one or more Instagram user accounts (whitelist) into Wordpress as custom Post Types.
 * Ability to choose which photos are imported based on one or more #hashtags. You can also import tags without providing a user user whitelist. 
