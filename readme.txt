@@ -90,6 +90,10 @@ If you add a username with no tags, the plugin will attempt to import all public
 
 Unfortunately the Instagram API does not grant us access to private accounts or photos. If you attempt to add a private user to the whitelist, we will show you a warning that the user is private. All private photos will be skipped when an import occurs.
 
+**The Shortcode is displaying the photo URLs on my page, but not the photos - what's up with that?**
+
+Under Import Options tab > Featured Image? Make sure that "Save imported image as featured image" is checked by default. Don't forget to select Save Settings.
+
 == Credits ==
 
 = SPARK6 Inc. =
