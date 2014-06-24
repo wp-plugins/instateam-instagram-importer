@@ -57,7 +57,7 @@ Be sure that you are logged into your Instagram account, then click the “Secur
 
 == Screenshots ==
 
-1. This is the default screen you see after you install the plugin.
+1. This is the default screen you see after you install the plugin. Be sure to sign up for the e-mail list to get important updates about the plugin!
 2. This is where you manage your Instagram users and tags.
 3. This is where you can set a variety of Instagram import rules.
 4. Flexible Shortcodes give you precise control over your responsive photo grids.
