@@ -33,6 +33,10 @@ If you are looking for a plugin that will allow you to consolidate posts from on
 * When clicked, individual photos launch into a responsive lightbox (courtesy of Magnific Popup). This is set with the lightbox=yes parameter.
 * Ability to unlink account at any time. 
 
+**Demo**
+
+You can view a live demo on our About Us page: http://www.spark6.com/about-us/ - that photo grid at the bottom is powered by this plugin. Be sure to resize the browser to view the different responsive breakpoints!
+
 == Installation ==
 
 **Automatic Install**
