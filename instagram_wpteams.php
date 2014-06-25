@@ -738,13 +738,13 @@ function icp_display_settings() {
 								<tr valign="top">
 									<th scope="row"><label><?php _e( 'Support Forums', 'insta_team' ); ?></label></th>
 									<td>
-										<p><?php _e( 'If you need support please check out the [Plugin Forums for InstaTeam] on <a href="http://wordpress.org" target="_blank">Wordpress.org</a>', 'insta_team' ); ?></p>
+										<p><?php _e( 'If you need support please check out the <a href="http://wordpress.org/support/plugin/instateam-instagram-importer" target="_blank">Plugin Forums for InstaTeam on Wordpress.org</a>', 'insta_team' ); ?></p>
 									</td>
 								</tr>
 								<tr valign="top">
 									<th scope="row"><label><?php _e( 'FAQ', 'insta_team' ); ?></label></th>
 									<td>
-										<p><?php _e( 'You can also check out the [FAQ]', 'insta_team' ); ?></p>
+										<p><?php _e( 'You can also check out the <a href="http://wordpress.org/plugins/instateam-instagram-importer/faq/" target="_blank">FAQ</a>', 'insta_team' ); ?></p>
 									</td>
 								</tr>
 								<tr valign="top">
