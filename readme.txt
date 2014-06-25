@@ -1,7 +1,9 @@
 === InstaTeam Instagram Importer ===
-Contributors: SPARK6
+Contributors: spark6
 Donate link: Free
 Tags: instagram, import, teams, photo, gallery
+Author URI: http://www.spark6.com/about-us
+Plugin URI: http://wordpress.org/plugins/instateam-instagram-importer
 Requires at least: 3.0.1
 Tested up to: 3.9.1
 Stable tag: 1.0
@@ -73,12 +75,14 @@ Be sure that you are logged into your Instagram account, then click the “Secur
 
 == Changelog ==
 
+= 1.1 = 
+* Added support links under the Help tab. 
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
 
-None at this time.
+We added links to our Help tab. This isn't a critical update, more of a nice to have :)
 
 == Frequently Asked Questions ==
 
